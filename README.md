@@ -24,7 +24,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{AdGuard_Home_Whitelist_Rules}/count.svg)
+![name](https://api.likepoems.com/counter/get/@AdGuard_Home_Whitelist_Rules)
 
 ---
 
